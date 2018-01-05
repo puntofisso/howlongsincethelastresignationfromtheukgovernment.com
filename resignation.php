@@ -1,8 +1,5 @@
 <?php
-
-echo 'resignationName = "Priti Patel";';
-echo 'resignationDateS = "November 8, 2017";';
-echo 'resignationTimeS = "19:14";';
-
-
+echo 'resignationName = "Damian Green";';
+echo 'resignationDateS = "December 20, 2017";';
+echo 'resignationTimeS = "20:43";';
 ?>
